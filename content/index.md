@@ -1,11 +1,13 @@
 +++
-title = "Welcome to the Docker Docs!"
-description = "Home page for Docker's documentation"
-keywords = ["Docker, documentation, manual, guide, reference, api"]
+title ="Docker Universal Control Plane"
+description="Docker Universal Control Plane"
+[menu.ucp]
+identifier="mn_ucp"
+weight="-100"
 +++
 
-# Welcome Friends to the Docker Docs!
 
+<<<<<<< HEAD
 <style type="text/css">
 .splash {border:0;background:none;}
 .splash td{vertical-align:top;background:none;padding:10px 5px;border-style:none;border-width:0px;overflow:hidden;word-break:normal;}
@@ -65,3 +67,26 @@ please email the <a href="mailto:feedback@docker.com">feedback to us</a>, we
 will be happy to hear from you.
 
 ![](https://docs.docker.com/images/docker-friends.png)
+=======
+# Docker Universal Control Plane BETA docs
+
+The following are available:
+
+<<<<<<< HEAD
+* [Release Notes](release_notes)
+* [UCP Quickstart Guide](installation)  
+* [Key/Value Store Backends](kv_store )   
+* [Manually setting up a CA](certs)  
+* [Set up container networking with UCP](networking)  
+* [Set up high availability](understand_ha)  
+* [UCP Support Dumps](support)
+>>>>>>> a874b0e... Updating
+=======
+* [Release Notes](release_notes.md)
+* [UCP Quickstart Guide](installation.md)
+* [Key/Value Store Backends](kv_store.md)
+* [Manually setting up a CA](certs.md)
+* [Set up container networking with UCP](networking.md)
+* [Set up high availability](understand_ha.md)
+* [Work with Docker Support](support.md)
+>>>>>>> a69d24e...  updating for .8
