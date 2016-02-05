@@ -262,7 +262,7 @@ install:
 
     If you are installing on a cloud provider such as AWS, make sure the instance has a public IP or hostname.
 
-    ![Open certs](images/ip_cloud_provider.png)
+    ![Open certs](../images/ip_cloud_provider.png)
 
 2. Run the `ucp` command interactively.
 
@@ -284,14 +284,14 @@ install:
 
     The login screen displays.
 
-    ![](images/login.png)
+    ![](../images/login.png)
 
 5. Enter `admin` for the username along with the password you provided to the `install`.
 
     If you didn't enter an admin password, the default password is `orca` After
     you enter the correct credentials, the UCP dashboard displays.
 
-    ![](images/dashboard.png)
+    ![](../images/dashboard.png)
 
     The dashboard shows a single node, your controller node.
 
@@ -351,7 +351,7 @@ When you have the information you'll be prompted for, do the following to instal
 
     Simply clicking on the nodes from the Dashboard takes you to the page. The page should display your new nodes.
 
-      ![](images/nodes.png)
+      ![](../images/nodes.png)
 
 
 ## Step 7: Add an Engine node to the UCP cluster
@@ -388,7 +388,7 @@ When you have the information you'll be prompted for, do the following to instal
 
     Simply clicking on the nodes from the Dashboard takes you to the page. The page should display your new nodes.
 
-      ![](images/nodes.png)
+      ![](../images/nodes.png)
 
 ## Step 8: Set up certs for the Docker CLI
 

@@ -65,11 +65,11 @@ Additional help is available for each command with the '--help' option.
 
 | Command | Description |
 |---------------------------------|-----------------------------------------------------------------------------|
-| [`install`](instal.md) | Install UCP on this engine. |
-| [`join`](join.md) | Join this engine to an existing UCP. |
-| [`upgrade`](upgrade.md) | Upgrade the UCP components on this Engine. |
-| [`images`](images.md) | Verify the UCP images on this Engine. |
-| [`uninstall`](uninstall.md) | Uninstall UCP components from this Engine. |
-| [`dump-certs`](dump-certs.md) | Dump out the public certs for this UCP controller. |
-| [`fingerprint`](fingerprint.md) | Dump out the TLS fingerprint for the UCP controller running on this Engine. |
-| [`help`](help.md) | Shows a list of commands or help for one command. |
+| [`install`](install) | Install UCP on this engine. |
+| [`join`](join) | Join this engine to an existing UCP. |
+| [`upgrade`](upgrade) | Upgrade the UCP components on this Engine. |
+| [`images`](images) | Verify the UCP images on this Engine. |
+| [`uninstall`](uninstall) | Uninstall UCP components from this Engine. |
+| [`dump-certs`](dump-certs) | Dump out the public certs for this UCP controller. |
+| [`fingerprint`](fingerprint) | Dump out the TLS fingerprint for the UCP controller running on this Engine. |
+| [`help`](help) | Shows a list of commands or help for one command. |
