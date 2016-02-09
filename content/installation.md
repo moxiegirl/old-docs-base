@@ -24,7 +24,7 @@ These instructions explain how to install Docker Universal Control Plane (UCP). 
 - [Installing with your own certificates](#installing-with-your-own-certificates)
 - [Where to go next](#where-to-go-next)
 
-**Upgrade Note**: If you have installed UCP 0.6.0 or higher, you can upgrade to UCP 0.7.0 using the [upgrade](reference/upgrade.md) command.
+**Upgrade Note**: If you have installed UCP 0.6.0 or higher, you can upgrade to UCP 0.7.0 using the [upgrade](../reference/upgrade) command.
 
 ## Plan your installation
 
